@@ -1,9 +1,9 @@
 {
   "detector": "venue_date",
-  "movie": "The Odyssey (IMAX 2D)",
-  "requested_date": "20260802",
-  "venue_code": "FSCK",
-  "venue_label": "INOX: South City, Kolkata",
-  "url_template": "https://in.bookmyshow.com/movies/kolk/the-odyssey/buytickets/ET00480917/{date}",
+  "movie": "The Odyssey - English",
+  "requested_date": "20260730",
+  "venue_code": "MSMA",
+  "venue_label": "PVR: Mani Square Mall, Kolkata",
+  "url_template": "https://in.bookmyshow.com/movies/kolk/the-odyssey/buytickets/ET00452034/{date}",
   "min_references": 10
 }
